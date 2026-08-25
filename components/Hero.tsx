@@ -61,7 +61,7 @@ export default function Hero() {
             className="mt-6 max-w-md text-paper-muted text-base md:text-lg leading-relaxed transition-all duration-700 ease-[cubic-bezier(0.16,1,0.3,1)]"
             style={{ ...stagger(2), opacity: mounted ? 1 : 0, transform: mounted ? "translateY(0)" : "translateY(28px)" }}
           >
-            I design and build complete web products — from the database
+            I design and build complete web products from the database
             schema to the pixel a user taps. Currently building reliable,
             fast interfaces with a strong backend underneath.
           </p>
