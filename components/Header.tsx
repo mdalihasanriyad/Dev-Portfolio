@@ -45,7 +45,7 @@ export default function Header() {
     >
       <div className="max-w-content mx-auto px-6 md:px-10 flex items-center justify-between h-16">
         <a href="#top" className="font-mono text-sm tracking-wide text-paper">
-          ahriyad<span className="text-amber">.dev</span>
+          ahriyad<span className="text-amber"></span>
         </a>
 
         <nav
