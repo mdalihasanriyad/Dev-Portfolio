@@ -46,7 +46,7 @@ export default function Preloader() {
       }}
     >
       <div className="font-mono text-sm md:text-base w-72 md:w-96">
-        <p className="text-amber mb-4">ahriyad.dev</p>
+        <p className="text-amber mb-4">ahriyad</p>
         {LINES.slice(0, lineIndex + 1).map((line, i) => (
           <p key={i} className="text-paper-muted mb-1 animate-fade-in">
             {line}
